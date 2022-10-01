@@ -13,5 +13,5 @@
   <br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Adobe After Effects-#9999FF?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white"/>
   
